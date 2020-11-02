@@ -31,7 +31,7 @@ You are required to write your predictions in a `.csv` file that contain the fol
 
 # Evaluation criteria
 The evaluation metric that is used for this problem is the r2_score. The formula is as follows:
-
+$$ score = r2\_score(y_true, y_pred)*100$$
 
 # Acknowledgements
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/
